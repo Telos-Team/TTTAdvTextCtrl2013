@@ -1,0 +1,28 @@
+c:\Users\mn\Documents\Visual Studio 2015\Projects\TTTAdvTextCtrl\TTTAdvTextCtrl\bin\Debug\TTTAdvTextCtrl.dll
+c:\Users\mn\Documents\Visual Studio 2015\Projects\TTTAdvTextCtrl\TTTAdvTextCtrl\bin\Debug\TTTAdvTextCtrl.pdb
+c:\Users\mn\Documents\Visual Studio 2015\Projects\TTTAdvTextCtrl\TTTAdvTextCtrl\bin\Debug\Microsoft.Dynamics.Framework.UI.Extensibility.dll
+c:\Users\mn\Documents\Visual Studio 2015\Projects\TTTAdvTextCtrl\TTTAdvTextCtrl\bin\Debug\Microsoft.Dynamics.Framework.UI.Extensibility.xml
+c:\Users\mn\Documents\Visual Studio 2015\Projects\TTTAdvTextCtrl\TTTAdvTextCtrl\obj\Debug\TTTAdvTextCtrl.dll
+c:\Users\mn\Documents\Visual Studio 2015\Projects\TTTAdvTextCtrl\TTTAdvTextCtrl\obj\Debug\TTTAdvTextCtrl.pdb
+C:\Users\pr\Desktop\TTTAdvTextCtrl\TTTAdvTextCtrl\bin\Debug\TTTAdvTextCtrl.dll
+C:\Users\pr\Desktop\TTTAdvTextCtrl\TTTAdvTextCtrl\bin\Debug\TTTAdvTextCtrl.pdb
+C:\Users\pr\Desktop\TTTAdvTextCtrl\TTTAdvTextCtrl\bin\Debug\Microsoft.Dynamics.Framework.UI.Extensibility.dll
+C:\Users\pr\Desktop\TTTAdvTextCtrl\TTTAdvTextCtrl\bin\Debug\Microsoft.Dynamics.Framework.UI.Extensibility.xml
+C:\Users\pr\Desktop\TTTAdvTextCtrl\TTTAdvTextCtrl\obj\Debug\TTTAdvTextCtrl.csprojResolveAssemblyReference.cache
+C:\Users\pr\Desktop\TTTAdvTextCtrl\TTTAdvTextCtrl\obj\Debug\TTTAdvTextCtrl.dll
+C:\Users\pr\Desktop\TTTAdvTextCtrl\TTTAdvTextCtrl\obj\Debug\TTTAdvTextCtrl.pdb
+C:\Data\Visual Studio 2015\Projects\TTTAdvTextCtrl\TTTAdvTextCtrl\bin\Debug\TTTAdvTextCtrl.dll
+C:\Data\Visual Studio 2015\Projects\TTTAdvTextCtrl\TTTAdvTextCtrl\bin\Debug\TTTAdvTextCtrl.pdb
+C:\Data\Visual Studio 2015\Projects\TTTAdvTextCtrl\TTTAdvTextCtrl\bin\Debug\Microsoft.Dynamics.Framework.UI.Extensibility.dll
+C:\Data\Visual Studio 2015\Projects\TTTAdvTextCtrl\TTTAdvTextCtrl\bin\Debug\Microsoft.Dynamics.Framework.UI.Extensibility.xml
+C:\Data\Visual Studio 2015\Projects\TTTAdvTextCtrl\TTTAdvTextCtrl\obj\Debug\TTTAdvTextCtrl.csprojResolveAssemblyReference.cache
+C:\Data\Visual Studio 2015\Projects\TTTAdvTextCtrl\TTTAdvTextCtrl\obj\Debug\TTTAdvTextCtrl.dll
+C:\Data\Visual Studio 2015\Projects\TTTAdvTextCtrl\TTTAdvTextCtrl\obj\Debug\TTTAdvTextCtrl.pdb
+C:\Users\mn\Documents\Visual Studio 2015\Projects\TTTAdvTextCtrl\TTTAdvTextCtrl\obj\Debug\TTTAdvTextCtrl.csprojResolveAssemblyReference.cache
+C:\Users\mn\Documents\Visual Studio 2015\Projects\TTTAdvTextCtrl2013\TTTAdvTextCtrl\obj\Debug\TTTAdvTextCtrl.csprojResolveAssemblyReference.cache
+C:\Users\mn\Documents\Visual Studio 2015\Projects\TTTAdvTextCtrl2013\TTTAdvTextCtrl\obj\Debug\TTTAdvTextCtrl.dll
+C:\Users\mn\Documents\Visual Studio 2015\Projects\TTTAdvTextCtrl2013\TTTAdvTextCtrl\obj\Debug\TTTAdvTextCtrl.pdb
+C:\Users\mn\Documents\Visual Studio 2015\Projects\TTTAdvTextCtrl2013\TTTAdvTextCtrl\bin\Debug\TTTAdvTextCtrl.dll
+C:\Users\mn\Documents\Visual Studio 2015\Projects\TTTAdvTextCtrl2013\TTTAdvTextCtrl\bin\Debug\TTTAdvTextCtrl.pdb
+C:\Users\mn\Documents\Visual Studio 2015\Projects\TTTAdvTextCtrl2013\TTTAdvTextCtrl\bin\Debug\Microsoft.Dynamics.Framework.UI.Extensibility.dll
+C:\Users\mn\Documents\Visual Studio 2015\Projects\TTTAdvTextCtrl2013\TTTAdvTextCtrl\bin\Debug\Microsoft.Dynamics.Framework.UI.Extensibility.xml
